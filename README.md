@@ -1,6 +1,8 @@
 Bugsnag SDK for Unity
 ===========
 
+[![openupm](https://img.shields.io/npm/v/com.bugsnag.unitynotifier?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.bugsnag.unitynotifier/)
+
 This is the UPM package for the Bugsnag SDK for Unity.
 
 Install it via `UPM`:
