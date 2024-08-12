@@ -1,11 +1,11 @@
-Bugsnag SDK for Unity
+BugSnag SDK for Unity
 ===========
 
-This is the UPM package for the Bugsnag SDK for Unity.
+This is the UPM package for the BugSnag SDK for Unity.
 
 Install it via `UPM`:
 ```
-https://github.com/bugsnag/bugsnag-unity-upm.git#v8.0.0
+https://github.com/bugsnag/bugsnag-unity-upm.git#v8.1.0
 ```
 
 ## Source code
